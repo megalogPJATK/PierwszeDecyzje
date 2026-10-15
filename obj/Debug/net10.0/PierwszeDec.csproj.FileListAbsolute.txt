@@ -1,0 +1,14 @@
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\bin\Debug\net10.0\PierwszeDec.exe
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\bin\Debug\net10.0\PierwszeDec.deps.json
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\bin\Debug\net10.0\PierwszeDec.runtimeconfig.json
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\bin\Debug\net10.0\PierwszeDec.dll
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\bin\Debug\net10.0\PierwszeDec.pdb
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\PierwszeDec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\PierwszeDec.AssemblyInfoInputs.cache
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\PierwszeDec.AssemblyInfo.cs
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\PierwszeDec.csproj.CoreCompileInputs.cache
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\PierwszeDec.dll
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\refint\PierwszeDec.dll
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\PierwszeDec.pdb
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\PierwszeDec.genruntimeconfig.cache
+C:\Users\s37399\Desktop\Pierwsze Decyzje\PierwszeDec\obj\Debug\net10.0\ref\PierwszeDec.dll
